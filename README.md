@@ -2,7 +2,7 @@
 
 **HTU, Midterm Project, Generative AI Track ICT Upskilling Program — 11 Dec 2025**
 
-Group 2: Sondos Ibrahim, Sara Khirfan, Sadeel Alhaleeq, Tasneem Alassaf
+Group 2: Sondos Ibrahim, Sara Khirfan, @sadeelalhaleeq03 , Tasneem Alassaf
 
 This project demonstrates an AI-powered code assistant capable of explaining, debugging, improving, and testing code using modern LLM techniques. It also includes an evaluation pipeline, tokenization experiments, and a hallucination detection framework implemented in a Google Colab notebook.
 
