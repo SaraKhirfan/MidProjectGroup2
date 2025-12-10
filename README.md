@@ -154,9 +154,13 @@ The Colab notebook includes:
 This project demonstrates a practical, optimized, and reliable code assistant powered by modern LLMs.
 Through structured prompting, evaluation analysis, and hallucination detection, the system achieves:
 -✅ High accuracy
+
 -✅ High clarity
+
 -✅ Low hallucination
+
 -✅ Low cost
+
 -✅ Developer-friendly behavior
 
 It serves as a useful tool for software developers, students, and researchers working with code and AI models.
