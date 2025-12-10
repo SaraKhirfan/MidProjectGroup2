@@ -1,6 +1,6 @@
 # 🧠 AI-Powered Code Assistant with Tokenization &amp; Evaluation Pipeline
 
-**Midterm Project, Generative AI — 11 Dec 2025**
+**HTU, Midterm Project, Generative AI Track ICT Upskilling Program — 11 Dec 2025**
 
 Group 2: Sondos Ibrahim, Sara Khirfan, Sadeel Alhaleeq, Tasneem Alassaf
 
