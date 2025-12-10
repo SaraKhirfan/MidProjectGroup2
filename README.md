@@ -4,8 +4,7 @@
 
 Group 2: Sondos Ibrahim, Sara Khirfan, Sadeel Alhaleeq, Tasneem Alassaf
 
-This project demonstrates an AI-powered code assistant capable of explaining, debugging, improving, and testing code using modern LLM techniques.  
-It also includes an evaluation pipeline, tokenization experiments, and a hallucination detection framework implemented in a Google Colab notebook.
+This project demonstrates an AI-powered code assistant capable of explaining, debugging, improving, and testing code using modern LLM techniques. It also includes an evaluation pipeline, tokenization experiments, and a hallucination detection framework implemented in a Google Colab notebook.
 
 ---
 
