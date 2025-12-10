@@ -1,6 +1,7 @@
 # 🧠 AI-Powered Code Assistant with Tokenization &amp; Evaluation Pipeline
 
 **Midterm Project, Generative AI — 11 Dec 2025**
+
 Group 2: Sondos Ibrahim, Sara Khirfan, Sadeel Alhaleeq, Tasneem Alassaf
 
 This project demonstrates an AI-powered code assistant capable of explaining, debugging, improving, and testing code using modern LLM techniques.  
